@@ -1,7 +1,3 @@
-""" 개인 학습용이며 인터넷에 공개할 수 없습니다.
-©2022 HongLab, Inc. All Rights Reserved
-"""
-
 from tkinter import *
 from PIL import Image, ImageTk
 import torch

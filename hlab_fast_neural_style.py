@@ -1,12 +1,3 @@
-""" 개인 학습용이며 인터넷에 공개할 수 없습니다.
-©2022 HongLab, Inc. All Rights Reserved
-"""
-
-"""
-A simplifed version of the PyTorch fast neural style transfer tutorial for educational purposes by Jeong-Mo Hong
-https://github.com/pytorch/examples/tree/main/fast_neural_style
-"""
-
 import re
 from PIL import Image
 import torch
